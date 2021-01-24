@@ -1,10 +1,29 @@
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+
 .App {
   text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 3rem;
   pointer-events: none;
+  max-width:100%;
+  max-height:100%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -21,7 +40,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: azure;
 }
 
 .App-link {
@@ -36,3 +55,4 @@
     transform: rotate(360deg);
   }
 }
+

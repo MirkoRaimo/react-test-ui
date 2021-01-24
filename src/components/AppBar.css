@@ -1,0 +1,25 @@
+.nav-container{
+    background-color: #282c34;
+  }
+  
+  .nav-bar{
+    width: 70%;
+    /*background-color: cyan;*/
+    margin: auto;
+    display: flex;
+  }
+  
+  .logo {
+    flex: 3;
+  }
+  
+  .menu-elements{
+    flex: 2;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+  }
+  
+  .element{
+    color: azure;
+  }
