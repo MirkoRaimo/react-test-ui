@@ -1,3 +1,14 @@
+# Hi, welcome to this project!
+
+This is just a simple react project, made to test some ui properties.<br>
+Enjoy! 😎
+
+![Image](src/images/react-test-ui-preview.png)
+
+<br>
+<br>
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
